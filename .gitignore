@@ -1,0 +1,55 @@
+# node_modules/
+# .expo/
+# dist/
+# npm-debug.*
+# *.jks
+# *.p8
+# *.p12
+# *.key
+# *.mobileprovision
+# *.orig.*
+# web-build/
+# .DS_Store
+
+
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build files
+dist/
+web-build/
+
+# Android
+android/app/build/
+android/.gradle/
+
+# iOS
+ios/build/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+npm-debug.*
+yarn-debug.log*
+yarn-error.log*
+
+# Keys & Certificates
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.orig.*

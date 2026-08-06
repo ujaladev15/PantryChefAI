@@ -1,0 +1,2116 @@
+[
+  {
+    "id": "r1",
+    "title": "Garlic Butter Chicken",
+    "description": "Juicy pan-seared chicken breast finished in a rich garlic butter sauce.",
+    "emoji": "\ud83c\udf57",
+    "image": "https://picsum.photos/seed/r1/800/600",
+    "difficulty": "Easy",
+    "cookTime": 25,
+    "servings": 3,
+    "rating": 4.5,
+    "reviewCount": 137,
+    "nutrition": {
+      "calories": 368,
+      "protein": 35,
+      "carbs": 53,
+      "fat": 24
+    },
+    "ingredients": [
+      {
+        "id": "i1",
+        "name": "Chicken Breast",
+        "emoji": "\ud83c\udf57",
+        "amount": "1 tbsp"
+      },
+      {
+        "id": "i16",
+        "name": "Garlic",
+        "emoji": "\ud83e\uddc4",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i28",
+        "name": "Butter",
+        "emoji": "\ud83e\uddc8",
+        "amount": "3"
+      },
+      {
+        "id": "i31",
+        "name": "Olive Oil",
+        "emoji": "\ud83e\uded2",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i33",
+        "name": "Basil",
+        "emoji": "\ud83c\udf3f",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat butter in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "High Protein"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r2",
+    "title": "Creamy Tuscan Salmon",
+    "description": "Pan-seared salmon in a creamy sun-dried tomato and spinach sauce.",
+    "emoji": "\ud83d\udc1f",
+    "image": "https://picsum.photos/seed/r2/800/600",
+    "difficulty": "Medium",
+    "cookTime": 34,
+    "servings": 1,
+    "rating": 4.6,
+    "reviewCount": 119,
+    "nutrition": {
+      "calories": 646,
+      "protein": 22,
+      "carbs": 54,
+      "fat": 30
+    },
+    "ingredients": [
+      {
+        "id": "i4",
+        "name": "Salmon",
+        "emoji": "\ud83d\udc1f",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i18",
+        "name": "Spinach",
+        "emoji": "\ud83e\udd6c",
+        "amount": "1"
+      },
+      {
+        "id": "i14",
+        "name": "Tomato",
+        "emoji": "\ud83c\udf45",
+        "amount": "1"
+      },
+      {
+        "id": "i27",
+        "name": "Milk",
+        "emoji": "\ud83e\udd5b",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i16",
+        "name": "Garlic",
+        "emoji": "\ud83e\uddc4",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat butter in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Medium",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for medium recipes."
+  },
+  {
+    "id": "r3",
+    "title": "Classic Shrimp Scampi",
+    "description": "Buttery garlic shrimp tossed with pasta and a splash of lemon.",
+    "emoji": "\ud83c\udf64",
+    "image": "https://picsum.photos/seed/r3/800/600",
+    "difficulty": "Easy",
+    "cookTime": 20,
+    "servings": 2,
+    "rating": 4.8,
+    "reviewCount": 284,
+    "nutrition": {
+      "calories": 567,
+      "protein": 22,
+      "carbs": 49,
+      "fat": 30
+    },
+    "ingredients": [
+      {
+        "id": "i5",
+        "name": "Shrimp",
+        "emoji": "\ud83e\udd90",
+        "amount": "2"
+      },
+      {
+        "id": "i9",
+        "name": "Pasta",
+        "emoji": "\ud83c\udf5d",
+        "amount": "1"
+      },
+      {
+        "id": "i16",
+        "name": "Garlic",
+        "emoji": "\ud83e\uddc4",
+        "amount": "1"
+      },
+      {
+        "id": "i28",
+        "name": "Butter",
+        "emoji": "\ud83e\uddc8",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i34",
+        "name": "Lemon",
+        "emoji": "\ud83c\udf4b",
+        "amount": "2"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat a splash of oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r4",
+    "title": "Beef & Broccoli Stir Fry",
+    "description": "Tender beef strips and crisp broccoli in a savory soy glaze.",
+    "emoji": "\ud83e\udd62",
+    "image": "https://picsum.photos/seed/r4/800/600",
+    "difficulty": "Medium",
+    "cookTime": 28,
+    "servings": 3,
+    "rating": 4.6,
+    "reviewCount": 121,
+    "nutrition": {
+      "calories": 471,
+      "protein": 38,
+      "carbs": 36,
+      "fat": 13
+    },
+    "ingredients": [
+      {
+        "id": "i6",
+        "name": "Ground Beef",
+        "emoji": "\ud83e\udd69",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i19",
+        "name": "Broccoli",
+        "emoji": "\ud83e\udd66",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i32",
+        "name": "Soy Sauce",
+        "emoji": "\ud83c\udf76",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i16",
+        "name": "Garlic",
+        "emoji": "\ud83e\uddc4",
+        "amount": "3"
+      },
+      {
+        "id": "i8",
+        "name": "Rice",
+        "emoji": "\ud83c\udf5a",
+        "amount": "1"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat a splash of oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Medium",
+      "High Protein"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for medium recipes."
+  },
+  {
+    "id": "r5",
+    "title": "Loaded Veggie Omelette",
+    "description": "Fluffy eggs folded around melted cheddar and garden vegetables.",
+    "emoji": "\ud83c\udf73",
+    "image": "https://picsum.photos/seed/r5/800/600",
+    "difficulty": "Easy",
+    "cookTime": 12,
+    "servings": 4,
+    "rating": 4.9,
+    "reviewCount": 52,
+    "nutrition": {
+      "calories": 543,
+      "protein": 28,
+      "carbs": 56,
+      "fat": 20
+    },
+    "ingredients": [
+      {
+        "id": "i2",
+        "name": "Eggs",
+        "emoji": "\ud83e\udd5a",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i25",
+        "name": "Cheddar Cheese",
+        "emoji": "\ud83e\uddc0",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i17",
+        "name": "Bell Pepper",
+        "emoji": "\ud83e\uded1",
+        "amount": "3"
+      },
+      {
+        "id": "i15",
+        "name": "Onion",
+        "emoji": "\ud83e\uddc5",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i14",
+        "name": "Tomato",
+        "emoji": "\ud83c\udf45",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat olive oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r6",
+    "title": "Mediterranean Quinoa Bowl",
+    "description": "A protein-packed bowl with quinoa, avocado and fresh vegetables.",
+    "emoji": "\ud83e\udd57",
+    "image": "https://picsum.photos/seed/r6/800/600",
+    "difficulty": "Easy",
+    "cookTime": 20,
+    "servings": 2,
+    "rating": 4.3,
+    "reviewCount": 54,
+    "nutrition": {
+      "calories": 320,
+      "protein": 31,
+      "carbs": 47,
+      "fat": 12
+    },
+    "ingredients": [
+      {
+        "id": "i12",
+        "name": "Quinoa",
+        "emoji": "\ud83c\udf3e",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i22",
+        "name": "Avocado",
+        "emoji": "\ud83e\udd51",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i24",
+        "name": "Cucumber",
+        "emoji": "\ud83e\udd52",
+        "amount": "2"
+      },
+      {
+        "id": "i14",
+        "name": "Tomato",
+        "emoji": "\ud83c\udf45",
+        "amount": "1"
+      },
+      {
+        "id": "i31",
+        "name": "Olive Oil",
+        "emoji": "\ud83e\uded2",
+        "amount": "1 cup"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat butter in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "High Protein"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r7",
+    "title": "Spicy Tofu Stir Fry",
+    "description": "Crispy tofu cubes tossed in a spicy garlic soy sauce.",
+    "emoji": "\ud83c\udf36\ufe0f",
+    "image": "https://picsum.photos/seed/r7/800/600",
+    "difficulty": "Medium",
+    "cookTime": 25,
+    "servings": 3,
+    "rating": 4.8,
+    "reviewCount": 254,
+    "nutrition": {
+      "calories": 345,
+      "protein": 29,
+      "carbs": 50,
+      "fat": 25
+    },
+    "ingredients": [
+      {
+        "id": "i3",
+        "name": "Tofu",
+        "emoji": "\ud83e\uddca",
+        "amount": "2"
+      },
+      {
+        "id": "i17",
+        "name": "Bell Pepper",
+        "emoji": "\ud83e\uded1",
+        "amount": "2"
+      },
+      {
+        "id": "i16",
+        "name": "Garlic",
+        "emoji": "\ud83e\uddc4",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i32",
+        "name": "Soy Sauce",
+        "emoji": "\ud83c\udf76",
+        "amount": "3"
+      },
+      {
+        "id": "i35",
+        "name": "Chili Flakes",
+        "emoji": "\ud83c\udf36\ufe0f",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat olive oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Medium",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for medium recipes."
+  },
+  {
+    "id": "r8",
+    "title": "Creamy Mushroom Risotto",
+    "description": "Slow-cooked rice simmered with mushrooms, butter and parmesan.",
+    "emoji": "\ud83c\udf5a",
+    "image": "https://picsum.photos/seed/r8/800/600",
+    "difficulty": "Hard",
+    "cookTime": 52,
+    "servings": 1,
+    "rating": 4.5,
+    "reviewCount": 158,
+    "nutrition": {
+      "calories": 352,
+      "protein": 39,
+      "carbs": 29,
+      "fat": 16
+    },
+    "ingredients": [
+      {
+        "id": "i8",
+        "name": "Rice",
+        "emoji": "\ud83c\udf5a",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i21",
+        "name": "Mushroom",
+        "emoji": "\ud83c\udf44",
+        "amount": "1 tbsp"
+      },
+      {
+        "id": "i28",
+        "name": "Butter",
+        "emoji": "\ud83e\uddc8",
+        "amount": "1 tbsp"
+      },
+      {
+        "id": "i30",
+        "name": "Parmesan",
+        "emoji": "\ud83e\uddc0",
+        "amount": "1 tbsp"
+      },
+      {
+        "id": "i16",
+        "name": "Garlic",
+        "emoji": "\ud83e\uddc4",
+        "amount": "1 cup"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat butter in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Hard",
+      "High Protein"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for hard recipes."
+  },
+  {
+    "id": "r9",
+    "title": "Bacon Avocado Toast",
+    "description": "Crunchy toasted bread topped with creamy avocado and crispy bacon.",
+    "emoji": "\ud83e\udd51",
+    "image": "https://picsum.photos/seed/r9/800/600",
+    "difficulty": "Easy",
+    "cookTime": 10,
+    "servings": 3,
+    "rating": 4.8,
+    "reviewCount": 25,
+    "nutrition": {
+      "calories": 611,
+      "protein": 39,
+      "carbs": 40,
+      "fat": 22
+    },
+    "ingredients": [
+      {
+        "id": "i10",
+        "name": "Bread",
+        "emoji": "\ud83c\udf5e",
+        "amount": "1"
+      },
+      {
+        "id": "i22",
+        "name": "Avocado",
+        "emoji": "\ud83e\udd51",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i7",
+        "name": "Bacon",
+        "emoji": "\ud83e\udd53",
+        "amount": "3"
+      },
+      {
+        "id": "i34",
+        "name": "Lemon",
+        "emoji": "\ud83c\udf4b",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i35",
+        "name": "Chili Flakes",
+        "emoji": "\ud83c\udf36\ufe0f",
+        "amount": "2"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat butter in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "High Protein"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r10",
+    "title": "Cheesy Chicken Quesadilla",
+    "description": "Grilled tortillas stuffed with seasoned chicken and melted cheese.",
+    "emoji": "\ud83e\uddc0",
+    "image": "https://picsum.photos/seed/r10/800/600",
+    "difficulty": "Easy",
+    "cookTime": 18,
+    "servings": 2,
+    "rating": 4.4,
+    "reviewCount": 128,
+    "nutrition": {
+      "calories": 574,
+      "protein": 35,
+      "carbs": 57,
+      "fat": 30
+    },
+    "ingredients": [
+      {
+        "id": "i13",
+        "name": "Tortilla",
+        "emoji": "\ud83e\uded3",
+        "amount": "3"
+      },
+      {
+        "id": "i1",
+        "name": "Chicken Breast",
+        "emoji": "\ud83c\udf57",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i26",
+        "name": "Mozzarella",
+        "emoji": "\ud83e\uddc0",
+        "amount": "1"
+      },
+      {
+        "id": "i17",
+        "name": "Bell Pepper",
+        "emoji": "\ud83e\uded1",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i15",
+        "name": "Onion",
+        "emoji": "\ud83e\uddc5",
+        "amount": "3"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat a splash of oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "High Protein"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r11",
+    "title": "Classic Spaghetti Bolognese",
+    "description": "Slow-simmered beef ragu tossed with al dente spaghetti.",
+    "emoji": "\ud83c\udf5d",
+    "image": "https://picsum.photos/seed/r11/800/600",
+    "difficulty": "Medium",
+    "cookTime": 40,
+    "servings": 1,
+    "rating": 4.5,
+    "reviewCount": 284,
+    "nutrition": {
+      "calories": 394,
+      "protein": 25,
+      "carbs": 20,
+      "fat": 23
+    },
+    "ingredients": [
+      {
+        "id": "i9",
+        "name": "Pasta",
+        "emoji": "\ud83c\udf5d",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i6",
+        "name": "Ground Beef",
+        "emoji": "\ud83e\udd69",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i14",
+        "name": "Tomato",
+        "emoji": "\ud83c\udf45",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i15",
+        "name": "Onion",
+        "emoji": "\ud83e\uddc5",
+        "amount": "1"
+      },
+      {
+        "id": "i16",
+        "name": "Garlic",
+        "emoji": "\ud83e\uddc4",
+        "amount": "2"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat olive oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Medium",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for medium recipes."
+  },
+  {
+    "id": "r12",
+    "title": "Greek Yogurt Parfait",
+    "description": "Layers of creamy yogurt, oats and fresh fruit for a light breakfast.",
+    "emoji": "\ud83e\udd63",
+    "image": "https://picsum.photos/seed/r12/800/600",
+    "difficulty": "Easy",
+    "cookTime": 8,
+    "servings": 3,
+    "rating": 4.5,
+    "reviewCount": 79,
+    "nutrition": {
+      "calories": 331,
+      "protein": 27,
+      "carbs": 44,
+      "fat": 28
+    },
+    "ingredients": [
+      {
+        "id": "i29",
+        "name": "Greek Yogurt",
+        "emoji": "\ud83e\udd63",
+        "amount": "2"
+      },
+      {
+        "id": "i11",
+        "name": "Oats",
+        "emoji": "\ud83e\udd63",
+        "amount": "2"
+      },
+      {
+        "id": "i34",
+        "name": "Lemon",
+        "emoji": "\ud83c\udf4b",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i27",
+        "name": "Milk",
+        "emoji": "\ud83e\udd5b",
+        "amount": "2"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat butter in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 4 of the 4 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r13",
+    "title": "Roasted Veggie & Potato Hash",
+    "description": "Crispy roasted potatoes tossed with colorful garden vegetables.",
+    "emoji": "\ud83e\udd54",
+    "image": "https://picsum.photos/seed/r13/800/600",
+    "difficulty": "Easy",
+    "cookTime": 30,
+    "servings": 4,
+    "rating": 4.4,
+    "reviewCount": 237,
+    "nutrition": {
+      "calories": 584,
+      "protein": 30,
+      "carbs": 43,
+      "fat": 16
+    },
+    "ingredients": [
+      {
+        "id": "i23",
+        "name": "Potato",
+        "emoji": "\ud83e\udd54",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i17",
+        "name": "Bell Pepper",
+        "emoji": "\ud83e\uded1",
+        "amount": "1"
+      },
+      {
+        "id": "i15",
+        "name": "Onion",
+        "emoji": "\ud83e\uddc5",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i20",
+        "name": "Carrot",
+        "emoji": "\ud83e\udd55",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i31",
+        "name": "Olive Oil",
+        "emoji": "\ud83e\uded2",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat olive oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r14",
+    "title": "Lemon Garlic Butter Shrimp",
+    "description": "Succulent shrimp seared in a bright lemon garlic butter sauce.",
+    "emoji": "\ud83c\udf4b",
+    "image": "https://picsum.photos/seed/r14/800/600",
+    "difficulty": "Easy",
+    "cookTime": 15,
+    "servings": 4,
+    "rating": 4.5,
+    "reviewCount": 111,
+    "nutrition": {
+      "calories": 550,
+      "protein": 26,
+      "carbs": 21,
+      "fat": 13
+    },
+    "ingredients": [
+      {
+        "id": "i5",
+        "name": "Shrimp",
+        "emoji": "\ud83e\udd90",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i34",
+        "name": "Lemon",
+        "emoji": "\ud83c\udf4b",
+        "amount": "1 tbsp"
+      },
+      {
+        "id": "i16",
+        "name": "Garlic",
+        "emoji": "\ud83e\uddc4",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i28",
+        "name": "Butter",
+        "emoji": "\ud83e\uddc8",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i33",
+        "name": "Basil",
+        "emoji": "\ud83c\udf3f",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat a splash of oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r15",
+    "title": "Spinach & Mushroom Pasta",
+    "description": "Al dente pasta tossed with saut\u00e9ed spinach, mushroom and parmesan.",
+    "emoji": "\ud83c\udf44",
+    "image": "https://picsum.photos/seed/r15/800/600",
+    "difficulty": "Medium",
+    "cookTime": 28,
+    "servings": 3,
+    "rating": 4.6,
+    "reviewCount": 109,
+    "nutrition": {
+      "calories": 425,
+      "protein": 36,
+      "carbs": 20,
+      "fat": 17
+    },
+    "ingredients": [
+      {
+        "id": "i9",
+        "name": "Pasta",
+        "emoji": "\ud83c\udf5d",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i18",
+        "name": "Spinach",
+        "emoji": "\ud83e\udd6c",
+        "amount": "1"
+      },
+      {
+        "id": "i21",
+        "name": "Mushroom",
+        "emoji": "\ud83c\udf44",
+        "amount": "1 tbsp"
+      },
+      {
+        "id": "i30",
+        "name": "Parmesan",
+        "emoji": "\ud83e\uddc0",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i31",
+        "name": "Olive Oil",
+        "emoji": "\ud83e\uded2",
+        "amount": "3"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat olive oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Medium",
+      "High Protein"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for medium recipes."
+  },
+  {
+    "id": "r16",
+    "title": "Chicken Caesar Wrap",
+    "description": "Grilled chicken, crisp lettuce and parmesan rolled in a soft tortilla.",
+    "emoji": "\ud83c\udf2f",
+    "image": "https://picsum.photos/seed/r16/800/600",
+    "difficulty": "Easy",
+    "cookTime": 15,
+    "servings": 4,
+    "rating": 4.7,
+    "reviewCount": 307,
+    "nutrition": {
+      "calories": 378,
+      "protein": 26,
+      "carbs": 59,
+      "fat": 30
+    },
+    "ingredients": [
+      {
+        "id": "i13",
+        "name": "Tortilla",
+        "emoji": "\ud83e\uded3",
+        "amount": "2"
+      },
+      {
+        "id": "i1",
+        "name": "Chicken Breast",
+        "emoji": "\ud83c\udf57",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i30",
+        "name": "Parmesan",
+        "emoji": "\ud83e\uddc0",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i18",
+        "name": "Spinach",
+        "emoji": "\ud83e\udd6c",
+        "amount": "1 tbsp"
+      },
+      {
+        "id": "i34",
+        "name": "Lemon",
+        "emoji": "\ud83c\udf4b",
+        "amount": "1"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat a splash of oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r17",
+    "title": "Beef Tacos",
+    "description": "Seasoned ground beef piled into warm tortillas with fresh toppings.",
+    "emoji": "\ud83c\udf2e",
+    "image": "https://picsum.photos/seed/r17/800/600",
+    "difficulty": "Easy",
+    "cookTime": 20,
+    "servings": 2,
+    "rating": 4.5,
+    "reviewCount": 243,
+    "nutrition": {
+      "calories": 332,
+      "protein": 34,
+      "carbs": 53,
+      "fat": 29
+    },
+    "ingredients": [
+      {
+        "id": "i13",
+        "name": "Tortilla",
+        "emoji": "\ud83e\uded3",
+        "amount": "1/2 cup"
+      },
+      {
+        "id": "i6",
+        "name": "Ground Beef",
+        "emoji": "\ud83e\udd69",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i14",
+        "name": "Tomato",
+        "emoji": "\ud83c\udf45",
+        "amount": "2"
+      },
+      {
+        "id": "i25",
+        "name": "Cheddar Cheese",
+        "emoji": "\ud83e\uddc0",
+        "amount": "1"
+      },
+      {
+        "id": "i15",
+        "name": "Onion",
+        "emoji": "\ud83e\uddc5",
+        "amount": "2"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat butter in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "High Protein"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r18",
+    "title": "Vegetable Fried Rice",
+    "description": "Wok-tossed rice with crisp vegetables, egg and a savory soy glaze.",
+    "emoji": "\ud83c\udf5a",
+    "image": "https://picsum.photos/seed/r18/800/600",
+    "difficulty": "Easy",
+    "cookTime": 18,
+    "servings": 2,
+    "rating": 4.5,
+    "reviewCount": 68,
+    "nutrition": {
+      "calories": 451,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 19
+    },
+    "ingredients": [
+      {
+        "id": "i8",
+        "name": "Rice",
+        "emoji": "\ud83c\udf5a",
+        "amount": "1"
+      },
+      {
+        "id": "i2",
+        "name": "Eggs",
+        "emoji": "\ud83e\udd5a",
+        "amount": "2"
+      },
+      {
+        "id": "i20",
+        "name": "Carrot",
+        "emoji": "\ud83e\udd55",
+        "amount": "2 cloves"
+      },
+      {
+        "id": "i17",
+        "name": "Bell Pepper",
+        "emoji": "\ud83e\uded1",
+        "amount": "2"
+      },
+      {
+        "id": "i32",
+        "name": "Soy Sauce",
+        "emoji": "\ud83c\udf76",
+        "amount": "1"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat olive oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  },
+  {
+    "id": "r19",
+    "title": "Baked Salmon with Veggies",
+    "description": "Oven-roasted salmon fillet served with a medley of roasted vegetables.",
+    "emoji": "\ud83d\udc1f",
+    "image": "https://picsum.photos/seed/r19/800/600",
+    "difficulty": "Medium",
+    "cookTime": 32,
+    "servings": 2,
+    "rating": 4.8,
+    "reviewCount": 66,
+    "nutrition": {
+      "calories": 614,
+      "protein": 24,
+      "carbs": 44,
+      "fat": 26
+    },
+    "ingredients": [
+      {
+        "id": "i4",
+        "name": "Salmon",
+        "emoji": "\ud83d\udc1f",
+        "amount": "1"
+      },
+      {
+        "id": "i19",
+        "name": "Broccoli",
+        "emoji": "\ud83e\udd66",
+        "amount": "1 tbsp"
+      },
+      {
+        "id": "i20",
+        "name": "Carrot",
+        "emoji": "\ud83e\udd55",
+        "amount": "2"
+      },
+      {
+        "id": "i31",
+        "name": "Olive Oil",
+        "emoji": "\ud83e\uded2",
+        "amount": "2"
+      },
+      {
+        "id": "i34",
+        "name": "Lemon",
+        "emoji": "\ud83c\udf4b",
+        "amount": "1/2 cup"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat olive oil in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Medium",
+      "Balanced"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for medium recipes."
+  },
+  {
+    "id": "r20",
+    "title": "Margherita Flatbread",
+    "description": "Crisp tortilla base topped with mozzarella, tomato and fresh basil.",
+    "emoji": "\ud83c\udf55",
+    "image": "https://picsum.photos/seed/r20/800/600",
+    "difficulty": "Easy",
+    "cookTime": 16,
+    "servings": 2,
+    "rating": 4.6,
+    "reviewCount": 311,
+    "nutrition": {
+      "calories": 427,
+      "protein": 37,
+      "carbs": 26,
+      "fat": 19
+    },
+    "ingredients": [
+      {
+        "id": "i13",
+        "name": "Tortilla",
+        "emoji": "\ud83e\uded3",
+        "amount": "1 cup"
+      },
+      {
+        "id": "i26",
+        "name": "Mozzarella",
+        "emoji": "\ud83e\uddc0",
+        "amount": "2"
+      },
+      {
+        "id": "i14",
+        "name": "Tomato",
+        "emoji": "\ud83c\udf45",
+        "amount": "1 tbsp"
+      },
+      {
+        "id": "i33",
+        "name": "Basil",
+        "emoji": "\ud83c\udf3f",
+        "amount": "3"
+      },
+      {
+        "id": "i31",
+        "name": "Olive Oil",
+        "emoji": "\ud83e\uded2",
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "order": 1,
+        "text": "Prep all ingredients: wash, chop, and measure everything so cooking goes smoothly."
+      },
+      {
+        "order": 2,
+        "text": "Heat butter in a pan over medium-high heat until shimmering."
+      },
+      {
+        "order": 3,
+        "text": "Add the aromatics and cook until fragrant, about 1-2 minutes."
+      },
+      {
+        "order": 4,
+        "text": "Add the main protein and cook until browned on all sides."
+      },
+      {
+        "order": 5,
+        "text": "Stir in the remaining vegetables and cook until just tender."
+      },
+      {
+        "order": 6,
+        "text": "Season with salt, pepper and your favorite spices to taste."
+      },
+      {
+        "order": 7,
+        "text": "Reduce heat and let everything simmer together for a few minutes to blend flavors."
+      },
+      {
+        "order": 8,
+        "text": "Plate the dish, garnish, and serve immediately while hot."
+      }
+    ],
+    "tags": [
+      "Easy",
+      "High Protein"
+    ],
+    "reviews": [
+      {
+        "user": "Maya R.",
+        "rating": 5,
+        "comment": "Made this twice already, so easy and flavorful!"
+      },
+      {
+        "user": "Daniel K.",
+        "rating": 4,
+        "comment": "Great weeknight recipe, added extra spice for heat."
+      },
+      {
+        "user": "Priya S.",
+        "rating": 5,
+        "comment": "Restaurant quality without the effort. Loved it."
+      }
+    ],
+    "aiReason": "Recommended because you have 5 of the 5 ingredients and it matches your recent taste for easy recipes."
+  }
+]
