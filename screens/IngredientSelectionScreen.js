@@ -1,38 +1,38 @@
-// import React, { useState, useMemo } from "react";
-// import { View, Text, StyleSheet, FlatList, Pressable } from "react-native";
-// import { SafeAreaView } from "react-native-safe-area-context";
-// import { Ionicons } from "@expo/vector-icons";
-// import Animated, { FadeInUp } from "react-native-reanimated";
-// import { useTheme } from "../context/ThemeContext";
-// import { spacing, fontSizes, fontWeights, radius, shadow } from "../constants/theme";
-// import { getAllIngredients } from "../services/recipeService";
-// import { groupBy } from "../utils/helpers";
-// import SearchBar from "../components/SearchBar";
-// import IngredientChip from "../components/IngredientChip";
-// import CustomButton from "../components/CustomButton";
+import React, { useState, useMemo } from "react";
+import { View, Text, StyleSheet, FlatList, Pressable } from "react-native";
+import { SafeAreaView } from "react-native-safe-area-context";
+import { Ionicons } from "@expo/vector-icons";
+import Animated, { FadeInUp } from "react-native-reanimated";
+import { useTheme } from "../context/ThemeContext";
+import { spacing, fontSizes, fontWeights, radius, shadow } from "../constants/theme";
+import { getAllIngredients } from "../services/recipeService";
+import { groupBy } from "../utils/helpers";
+import SearchBar from "../components/SearchBar";
+import IngredientChip from "../components/IngredientChip";
+import CustomButton from "../components/CustomButton";
 
-// const ALL_INGREDIENTS = getAllIngredients();
-// const CATEGORIES = ["All", ...Array.from(new Set(ALL_INGREDIENTS.map((i) => i.category)))];
+const ALL_INGREDIENTS = getAllIngredients();
+const CATEGORIES = ["All", ...Array.from(new Set(ALL_INGREDIENTS.map((i) => i.category)))];
 
-// export default function IngredientSelectionScreen({ navigation }) {
-//   const { theme } = useTheme();
-//   const [query, setQuery] = useState("");
-//   const [category, setCategory] = useState("All");
-//   const [selected, setSelected] = useState([]);
+export default function IngredientSelectionScreen({ navigation }) {
+  const { theme } = useTheme();
+  const [query, setQuery] = useState("");
+  const [category, setCategory] = useState("All");
+  const [selected, setSelected] = useState([]);
 
-//   const filtered = useMemo(() => {
-//     return ALL_INGREDIENTS.filter((i) => {
-//       const matchesQuery = i.name.toLowerCase().includes(query.toLowerCase());
-//       const matchesCategory = category === "All" || i.category === category;
-//       return matchesQuery && matchesCategory;
-//     });
-//   }, [query, category]);
+  const filtered = useMemo(() => {
+    return ALL_INGREDIENTS.filter((i) => {
+      const matchesQuery = i.name.toLowerCase().includes(query.toLowerCase());
+      const matchesCategory = category === "All" || i.category === category;
+      return matchesQuery && matchesCategory;
+    });
+  }, [query, category]);
 
-//   const grouped = useMemo(() => groupBy(filtered, (i) => i.category), [filtered]);
+  const grouped = useMemo(() => groupBy(filtered, (i) => i.category), [filtered]);
 
-//   const toggleIngredient = (id) => {
-//     setSelected((prev) => (prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id]));
-//   };
+  const toggleIngredient = (id) => {
+    setSelected((prev) => (prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id]));
+  };
 
 //   return (
 //     <SafeAreaView style={[styles.container, { backgroundColor: theme.background }]} edges={["top"]}>
