@@ -34,21 +34,21 @@ export default function IngredientSelectionScreen({ navigation }) {
     setSelected((prev) => (prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id]));
   };
 
-//   return (
-//     <SafeAreaView style={[styles.container, { backgroundColor: theme.background }]} edges={["top"]}>
-//       <View style={styles.header}>
-//         <Pressable onPress={() => navigation.goBack()} hitSlop={10}>
-//           <Ionicons name="chevron-back" size={24} color={theme.text} />
-//         </Pressable>
-//         <Text style={[styles.headerTitle, { color: theme.text }]}>Select Ingredients</Text>
-//         <View style={[styles.counterBadge, { backgroundColor: theme.primary }]}>
-//           <Text style={styles.counterText}>{selected.length}</Text>
-//         </View>
-//       </View>
+  return (
+    <SafeAreaView style={[styles.container, { backgroundColor: theme.background }]} edges={["top"]}>
+      <View style={styles.header}>
+        <Pressable onPress={() => navigation.goBack()} hitSlop={10}>
+          <Ionicons name="chevron-back" size={24} color={theme.text} />
+        </Pressable>
+        <Text style={[styles.headerTitle, { color: theme.text }]}>Select Ingredients</Text>
+        <View style={[styles.counterBadge, { backgroundColor: theme.primary }]}>
+          <Text style={styles.counterText}>{selected.length}</Text>
+        </View>
+      </View>
 
-//       <View style={styles.searchWrap}>
-//         <SearchBar value={query} onChangeText={setQuery} placeholder="Search ingredients…" />
-//       </View>
+      <View style={styles.searchWrap}>
+        <SearchBar value={query} onChangeText={setQuery} placeholder="Search ingredients…" />
+      </View>
 
 //       <FlatList
 //         data={CATEGORIES}
