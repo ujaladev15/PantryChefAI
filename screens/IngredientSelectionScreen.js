@@ -50,106 +50,106 @@ export default function IngredientSelectionScreen({ navigation }) {
         <SearchBar value={query} onChangeText={setQuery} placeholder="Search ingredients…" />
       </View>
 
-//       <FlatList
-//         data={CATEGORIES}
-//         horizontal
-//         showsHorizontalScrollIndicator={false}
-//         keyExtractor={(item) => item}
-//         contentContainerStyle={styles.categoryRow}
-//         renderItem={({ item }) => (
-//           <Pressable
-//             onPress={() => setCategory(item)}
-//             style={[
-//               styles.categoryPill,
-//               {
-//                 backgroundColor: category === item ? theme.primary : theme.cardAlt,
-//                 borderColor: category === item ? theme.primary : theme.border,
-//               },
-//             ]}
-//           >
-//             <Text style={{ color: category === item ? "#FFFFFF" : theme.text, fontWeight: fontWeights.medium, fontSize: fontSizes.xs }}>
-//               {item}
-//             </Text>
-//           </Pressable>
-//         )}
-//       />
+         <FlatList
+        data={CATEGORIES}
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        keyExtractor={(item) => item}
+        contentContainerStyle={styles.categoryRow}
+        renderItem={({ item }) => (
+          <Pressable
+            onPress={() => setCategory(item)}
+            style={[
+              styles.categoryPill,
+              {
+                backgroundColor: category === item ? theme.primary : theme.cardAlt,
+                borderColor: category === item ? theme.primary : theme.border,
+              },
+            ]}
+          >
+            <Text style={{ color: category === item ? "#FFFFFF" : theme.text, fontWeight: fontWeights.medium, fontSize: fontSizes.xs }}>
+              {item}
+            </Text>
+          </Pressable>
+        )}
+      />
 
-//       <FlatList
-//         data={Object.keys(grouped)}
-//         keyExtractor={(key) => key}
-//         contentContainerStyle={{ paddingHorizontal: spacing.xl, paddingBottom: 140 }}
-//         showsVerticalScrollIndicator={false}
-//         renderItem={({ item: groupKey, index: groupIndex }) => (
-//           <Animated.View entering={FadeInUp.delay(groupIndex * 40).duration(300)} style={styles.group}>
-//             <Text style={[styles.groupTitle, { color: theme.textSecondary }]}>{groupKey}</Text>
-//             <View style={styles.grid}>
-//               {grouped[groupKey].map((ingredient) => (
-//                 <IngredientChip
-//                   key={ingredient.id}
-//                   ingredient={ingredient}
-//                   selected={selected.includes(ingredient.id)}
-//                   onToggle={() => toggleIngredient(ingredient.id)}
-//                 />
-//               ))}
-//             </View>
-//           </Animated.View>
-//         )}
-//       />
+      <FlatList
+        data={Object.keys(grouped)}
+        keyExtractor={(key) => key}
+        contentContainerStyle={{ paddingHorizontal: spacing.xl, paddingBottom: 140 }}
+        showsVerticalScrollIndicator={false}
+        renderItem={({ item: groupKey, index: groupIndex }) => (
+          <Animated.View entering={FadeInUp.delay(groupIndex * 40).duration(300)} style={styles.group}>
+            <Text style={[styles.groupTitle, { color: theme.textSecondary }]}>{groupKey}</Text>
+            <View style={styles.grid}>
+              {grouped[groupKey].map((ingredient) => (
+                <IngredientChip
+                  key={ingredient.id}
+                  ingredient={ingredient}
+                  selected={selected.includes(ingredient.id)}
+                  onToggle={() => toggleIngredient(ingredient.id)}
+                />
+              ))}
+            </View>
+          </Animated.View>
+        )}
+      />
 
-//       <View style={[styles.footer, { backgroundColor: theme.background, borderTopColor: theme.border }]}>
-//         <CustomButton
-//           title={selected.length > 0 ? `Find Recipes (${selected.length} selected)` : "Select ingredients to continue"}
-//           disabled={selected.length === 0}
-//           onPress={() => navigation.navigate("AIRecommendation", { selectedIngredientIds: selected })}
-//         />
-//       </View>
-//     </SafeAreaView>
-//   );
-// }
+      <View style={[styles.footer, { backgroundColor: theme.background, borderTopColor: theme.border }]}>
+        <CustomButton
+          title={selected.length > 0 ? `Find Recipes (${selected.length} selected)` : "Select ingredients to continue"}
+          disabled={selected.length === 0}
+          onPress={() => navigation.navigate("AIRecommendation", { selectedIngredientIds: selected })}
+        />
+      </View>
+    </SafeAreaView>
+  );
+}
 
-// const styles = StyleSheet.create({
-//   container: { flex: 1 },
-//   header: {
-//     flexDirection: "row",
-//     alignItems: "center",
-//     justifyContent: "space-between",
-//     paddingHorizontal: spacing.xl,
-//     paddingBottom: spacing.md,
-//   },
-//   headerTitle: { fontSize: fontSizes.lg, fontWeight: fontWeights.bold },
-//   counterBadge: {
-//     minWidth: 26,
-//     height: 26,
-//     borderRadius: 13,
-//     alignItems: "center",
-//     justifyContent: "center",
-//     paddingHorizontal: 6,
-//   },
-//   counterText: { color: "#FFFFFF", fontSize: fontSizes.xs, fontWeight: fontWeights.bold },
-//   searchWrap: { paddingHorizontal: spacing.xl, marginBottom: spacing.md },
-//   categoryRow: { paddingHorizontal: spacing.xl, gap: spacing.sm, paddingBottom: spacing.lg },
-//   categoryPill: {
-//     paddingVertical: spacing.sm,
-//     paddingHorizontal: spacing.md,
-//     borderRadius: radius.pill,
-//     borderWidth: 1,
-//     marginRight: spacing.sm,
-//   },
-//   group: { marginBottom: spacing.xl },
-//   groupTitle: {
-//     fontSize: fontSizes.xs,
-//     fontWeight: fontWeights.bold,
-//     textTransform: "uppercase",
-//     letterSpacing: 0.5,
-//     marginBottom: spacing.sm,
-//   },
-//   grid: { flexDirection: "row", flexWrap: "wrap", gap: spacing.sm },
-//   footer: {
-//     position: "absolute",
-//     bottom: 0,
-//     left: 0,
-//     right: 0,
-//     padding: spacing.xl,
-//     borderTopWidth: 1,
-//   },
-// });
+const styles = StyleSheet.create({
+  container: { flex: 1 },
+  header: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
+    paddingHorizontal: spacing.xl,
+    paddingBottom: spacing.md,
+  },
+  headerTitle: { fontSize: fontSizes.lg, fontWeight: fontWeights.bold },
+  counterBadge: {
+    minWidth: 26,
+    height: 26,
+    borderRadius: 13,
+    alignItems: "center",
+    justifyContent: "center",
+    paddingHorizontal: 6,
+  },
+  counterText: { color: "#FFFFFF", fontSize: fontSizes.xs, fontWeight: fontWeights.bold },
+  searchWrap: { paddingHorizontal: spacing.xl, marginBottom: spacing.md },
+  categoryRow: { paddingHorizontal: spacing.xl, gap: spacing.sm, paddingBottom: spacing.lg },
+  categoryPill: {
+    paddingVertical: spacing.sm,
+    paddingHorizontal: spacing.md,
+    borderRadius: radius.pill,
+    borderWidth: 1,
+    marginRight: spacing.sm,
+  },
+  group: { marginBottom: spacing.xl },
+  groupTitle: {
+    fontSize: fontSizes.xs,
+    fontWeight: fontWeights.bold,
+    textTransform: "uppercase",
+    letterSpacing: 0.5,
+    marginBottom: spacing.sm,
+  },
+  grid: { flexDirection: "row", flexWrap: "wrap", gap: spacing.sm },
+  footer: {
+    position: "absolute",
+    bottom: 0,
+    left: 0,
+    right: 0,
+    padding: spacing.xl,
+    borderTopWidth: 1,
+  },
+});
